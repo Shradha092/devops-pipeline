@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My DevOps Website</title>
+</head>
+<body>
+
+    <h1>Hello Shradha 👋</h1>
+    <p>This website is deployed using Jenkins 🚀</p>
+
+</body>
+</html>
